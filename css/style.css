@@ -8,12 +8,14 @@
 .titulo{
     margin-top: 30px;
     margin-bottom: 10px;
+    display: flex;
     
 }
 
 /* Header logo */
 
 .reciclaje{
+    display: flex;
     width: 70px;
     margin-right: 10px;
     margin-left: 5px;
